@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kodlar yazdım bi sürü
+=======
+bazı değişiklikler yaptım.
+>>>>>>> 19827d3783d43ba00dbf389e0b4047090e742266
